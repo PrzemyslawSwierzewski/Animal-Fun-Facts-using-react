@@ -1,4 +1,4 @@
-import { animals } from './animals';
+import { animals } from 'animals';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
@@ -18,7 +18,7 @@ const background=(
   <img 
   className="background"
   alt='ocean'
-  src='/images/ocean.jpg'/>
+  src='images/ocean.jpg'/>
 );
 
 const images = [];
